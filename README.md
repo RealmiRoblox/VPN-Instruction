@@ -3,12 +3,12 @@
 Есть приглашение подключиться к серверу Outline? Следуйте этим инструкциям, чтобы получить доступ к открытому Интернету с вашего устройства. Никакая личная информация не будет собираться.
 
 ## 1. Скопируйте ключ доступа
-![Copy access key](img/invitation-instructions-001.png "Copy your access key")
+![Copy access key](invitation-instructions-001.png "Copy your access key")
 `ss://xxx` находится в нижней части электронного письма или сообщения с приглашением. Приложение Outline мгновенно добавит этот сервер из буфера обмена.
 
 
 ## 2. Установка Outline
-![Install Outline](img/invitation-instructions-002.png "Install Outline")
+![Install Outline](invitation-instructions-002.png "Install Outline")
 
 |Скачать|  |
 | ------------- | ------------- |
@@ -20,6 +20,6 @@
 
 
 ## 3. Добавить сервер и подключиться
-![Add server and connect](img/invitation-instructions-003.png "Add server and connect")
+![Add server and connect](invitation-instructions-003.png "Add server and connect")
 Откройте приложение и подтвердите свой новый сервер. Коснитесь или щелкните, чтобы подключиться.
 **Возникли проблемы?** Попробуйте еще раз скопировать ключ доступа, чтобы добавить свой сервер.
