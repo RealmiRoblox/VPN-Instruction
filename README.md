@@ -1,16 +1,16 @@
-# Invitation instructions
+# Инструкции по приглашению
 
-Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from your device. No personal information will be collected.
+Есть приглашение подключиться к серверу Outline? Следуйте этим инструкциям, чтобы получить доступ к открытому Интернету с вашего устройства. Никакая личная информация не будет собираться.
 
-## 1. Copy your access key
+## 1. Скопируйте ключ доступа
 ![Copy access key](img/invitation-instructions-001.png "Copy your access key")
-`ss://xxx` located at the bottom of your invitation email or message. The Outline app will instantly add this server from your clipboard.
+`ss://xxx` находится в нижней части электронного письма или сообщения с приглашением. Приложение Outline мгновенно добавит этот сервер из буфера обмена.
 
 
-## 2. Install Outline
+## 2. Установка Outline
 ![Install Outline](img/invitation-instructions-002.png "Install Outline")
 
-|Download|  |
+|Скачать|  |
 | ------------- | ------------- |
 | [Android ›](https://play.google.com/store/apps/details?id=org.outline.android.client) | If Google Play is not accessible, [get it here](https://github.com/Jigsaw-Code/outline-releases/blob/master/client/Outline.apk?raw=true). |
 | [iOS ›](https://itunes.apple.com/app/outline-app/id1356177741) | Get Outline on the App Store |
@@ -19,7 +19,7 @@ Have an invitation to connect to an Outline server? Follow these instructions to
 | [Linux ›]( https://s3.amazonaws.com/outline-releases/client/Outline-Client.AppImage) | Download Outline.AppImage, [make it executable](https://docs.appimage.org/introduction/quickstart.html), then double click to launch. |
 
 
-## 3. Add server and connect
+## 3. Добавить сервер и подключиться
 ![Add server and connect](img/invitation-instructions-003.png "Add server and connect")
-Open the app and confirm your new server. Tap or click to connect.
-**Having trouble?** Try copying your access key again to add your server.
+Откройте приложение и подтвердите свой новый сервер. Коснитесь или щелкните, чтобы подключиться.
+**Возникли проблемы?** Попробуйте еще раз скопировать ключ доступа, чтобы добавить свой сервер.
